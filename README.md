@@ -1,105 +1,81 @@
-<h1 align="center">Hi 👋, I'm Haroon Rasheed</h1>
-
-<h3 align="center">
-Software Engineer | Frontend Web Developer
-</h3>
+<p align="center">
+  <h1>Haroon Rasheed</h1>
+  <h3>Software Engineer | Frontend Web Developer</h3>
+</p>
 
 ---
 
-## 💻 About Me
+## 🚀 About
 
-- 💼 Frontend Web Developer with industry experience
-- ⚡ Specialized in Angular, TypeScript & responsive UI development
-- 🚀 Passionate about scalable and modern web applications
-- 🌱 Currently improving full-stack development skills
-- 📍 Islamabad, Pakistan
+Frontend Developer with hands-on experience in building scalable and responsive web applications using Angular, TypeScript, and modern web technologies. Focused on clean UI, performance, and user experience.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • TypeScript • Angular
-
-### Backend
-Node.js • Express.js
-
-### Database
-MongoDB • SQL
-
-### Other Tools
-Git • REST APIs • JWT Authentication • Responsive Design
+**Frontend:** Angular • TypeScript • JavaScript • HTML • CSS • Bootstrap • Tailwind  
+**Backend:** Node.js • Express.js  
+**Database:** MongoDB • SQL  
+**Tools:** Git • REST APIs • JWT • Responsive Design
 
 ---
 
 ## 💼 Experience
 
-### Frontend Web Developer
-SyntecX Solutions — Islamabad, Pakistan
+**Frontend Web Developer** — SyntecX Solutions  
+- Angular-based web applications  
+- Reusable UI components  
+- REST API integration  
+- Performance optimization  
 
-- Developed scalable Angular applications
-- Built reusable UI components
-- Integrated REST APIs
-- Implemented authentication and route guards
-- Optimized frontend performance
-
----
-
-### Web Developer Intern
-Barinexworld Pvt. Ltd — Abbottabad, Pakistan
-
-- Developed responsive websites
-- Built interactive user interfaces
-- Improved mobile responsiveness
+**Web Developer Intern** — Barinexworld Pvt. Ltd  
+- Responsive websites  
+- UI development  
+- Mobile-friendly layouts  
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚖️ Hiring Lawyers Website
+**⚖️ Hiring Lawyers Platform (FYP)**  
+Angular + Node.js + MongoDB  
+- Booking system  
+- Secure messaging  
+- Payments (Stripe)  
+- Authentication (JWT)
 
-Built using:
-- Angular
-- Node.js
-- Express.js
-- MongoDB
-
-Features:
-- Lawyer hiring by specialization
-- Appointment booking
-- Secure messaging
-- Stripe payments
-- JWT Authentication
-
----
-
-### 📚 Online Book Store
-
-Built using:
-- HTML
-- CSS
-- JavaScript
-
-Features:
-- Product listing
-- Cart functionality
-- Responsive UI
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/haroon-rasheed-1722522bb
-- Email: haroonkhan99789@gmail.com
+**📚 Online Book Store**  
+HTML, CSS, JavaScript  
+- Product listing  
+- Cart system  
+- Clean UI
 
 ---
 
 ## 📊 GitHub Stats
 
-![Haroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HR9978&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HR9978&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HR9978&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Contribution Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=HR9978&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HR9978&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Contact
+
+- Email: haroonkhan99789@gmail.com  
+- LinkedIn: linkedin.com/in/haroon-rasheed-1722522bb  
+
+---
+
+<p align="center">
+  <b>Always building clean & scalable web applications 🚀</b>
+</p>
