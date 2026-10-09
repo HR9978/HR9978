@@ -13,7 +13,7 @@ Frontend Developer with hands-on experience in building scalable and responsive 
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Angular • TypeScript • JavaScript • HTML • CSS • Bootstrap • Tailwind  
+**Frontend:**nest.js | next js | React | Angular • TypeScript • JavaScript • HTML • CSS • Bootstrap • Tailwind  
 **Backend:** Node.js • Express.js  
 **Database:** MongoDB • SQL  
 **Tools:** Git • REST APIs • JWT • Responsive Design
